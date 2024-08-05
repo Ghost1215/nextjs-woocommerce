@@ -45,8 +45,8 @@ without having to re-build next.js the application.
 First clone/fork the repo and cd into it.
 
 ```bash
-git clone https://github.com/imranhsayed/nextjs-woocommerce-restapi.git
-cd nextjs-woocommerce-restapi
+git clone https://github.com/Ghost1215/nextjs-woocommerce.git
+cd nextjs-woocommerce
 npm ci
 npm run dev
 ```
